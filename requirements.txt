@@ -1,0 +1,6 @@
+ollama
+chromadb
+langchain
+rich
+pypdf
+cryptography
