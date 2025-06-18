@@ -1,8 +1,8 @@
-# 🛡️ Local Privacy Chatbot (Ollama + Python)
+# Local Privacy Chatbot (Ollama + Python)
 
 This chatbot allows you to query documents **entirely offline** using open-source language models via **Ollama**, while preserving **data privacy**.
 
-## ✅ Features
+## Features
 
 - Local LLM inference using [Ollama](https://ollama.com)
 - PDF document Q&A with **no external API**
@@ -11,13 +11,13 @@ This chatbot allows you to query documents **entirely offline** using open-sourc
 - Vector DB with **ChromaDB**
 - Fast response via local embeddings
 
-## 💻 Requirements
+## Requirements
 
 - Python 3.8+
 - Ollama installed with LLMs like `llama3`, `nomic-embed-text`
 - pip install -r requirements.txt
 
-## 🚀 Usage
+## Usage
 
 ```bash
 python chatbot.py
